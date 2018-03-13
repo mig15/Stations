@@ -3,4 +3,8 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hint_from">Выберите станцию отправления</string>
+    <string name="hint_where">Выберите станцию прибытия</string>
+    <string name="hint_when">Выберите дату прибытия</string>
 </resources>
