@@ -6,5 +6,5 @@
 
     <string name="hint_from">Выберите станцию отправления</string>
     <string name="hint_where">Выберите станцию прибытия</string>
-    <string name="hint_when">Выберите дату прибытия</string>
+    <string name="hint_when">Выберите дату отправления</string>
 </resources>
